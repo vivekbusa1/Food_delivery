@@ -10,7 +10,7 @@ COPY . .
 
 RUN mkdir -p src/uploads logs
 
-EXPOSE 5000
+EXPOSE 10000
 
 ENV NODE_ENV=production
 
